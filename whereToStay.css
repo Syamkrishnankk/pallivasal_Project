@@ -1,0 +1,54 @@
+#logo{
+    height: 40px;
+    width: 70px;
+}
+ #userImg{
+    height: 30px;
+    width: 60px;
+    margin-top: 10px;
+} 
+#navBar{
+    height: 50px;
+    background: rgba(250, 250, 250, 0.51);
+}
+#header1{
+    text-align: center;
+}
+#backArrow
+{
+    text-align: center;
+}
+#img-text{
+    text-align: center;
+}
+body{
+    background-image: linear-gradient(to right,rgb(83,105,118), rgb(41, 46, 73));
+}
+
+#card{
+    width: 250px;
+    max-width: 100%;
+    height: auto;
+    
+}
+#card:hover
+{
+    border:2px solid skyblue;
+    border-radius: 25px;
+    box-shadow: 0 0 10px #333;
+    -webkit-box-shadow: 0 0 10px #333;
+    -moz-box-shadow: 0 0 10px #333;
+    -ms-box-shadow: 0 0 10px #333;
+}
+.container2{
+    font-family: Alata;
+}
+#home
+{
+    font-family: COCOGOOSE;
+}
+
+
+
+
+    
